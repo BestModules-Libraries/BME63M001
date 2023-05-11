@@ -1,0 +1,45 @@
+#######################################
+# Syntax Coloring Map For BME63M001
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+BME63M001	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in command
+begin	KEYWORD2	
+getFWVer	KEYWORD2				
+readTDS	KEYWORD2			
+readTemperature	KEYWORD2								
+sleep	KEYWORD2
+reset	KEYWORD2					
+#######################################
+# Constants (LITERAL1)
+#######################################
+CHECK_FAIL	LITERAL1
+CHECK_OK	LITERAL1
+
+TIMEOUT_ERROR  LITERAL1
+CHECK_ERROR	LITERAL1
+COMMAND_ERROR	LITERAL1
+CHANEL_ERROR	LITERAL1
+
+HEADER	LITERAL1
+ADDRESSHIGH	LITERAL1
+ADDRESSLOW	LITERAL1          
+  
+COMMAND0	LITERAL1 
+COMMAND0_TX_LENGTH	LITERAL1     
+COMMAND0_RX_LENGTH	LITERAL1    
+COMMAND1	LITERAL1       
+COMMAND1_TX_LENGTH	LITERAL1       
+COMMAND1_RX_LENGTH	LITERAL1       
+COMMAND2	LITERAL1        
+COMMAND2_TX_LENGTH	LITERAL1 
+COMMAND2_RX_LENGTH	LITERAL1       
