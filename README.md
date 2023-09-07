@@ -29,7 +29,7 @@ Version History
 &emsp;&emsp;- Initial public release.
 * **V1.0.2**  
 &emsp;&emsp;- Example readTDS adds latency to the loop function;  
-&emsp;&emsp;- Change the sample layout image; 
+&emsp;&emsp;- Change the layout image and schematic image in all examples; 
 
 License Information
 -------------------
