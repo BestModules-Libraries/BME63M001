@@ -25,7 +25,11 @@ Documentation
 Version History  
 -------------------
 
-* **V1.0.1** - Initial public release.
+* **V1.0.1**  
+&emsp;&emsp;- Initial public release.
+* **V1.0.2**  
+&emsp;&emsp;- Example readTDS adds latency to the loop function;  
+&emsp;&emsp;- Change the sample layout image; 
 
 License Information
 -------------------
